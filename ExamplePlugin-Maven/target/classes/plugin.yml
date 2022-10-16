@@ -1,0 +1,4 @@
+name: zeconatown
+version: "0.0.1"
+api: ["1.0.14"]
+main: net.zeconatown.Main
